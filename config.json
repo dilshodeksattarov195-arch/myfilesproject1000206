@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvrocess",
+        "uuid": 1840198,
+        "checksum": "e8flpl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
